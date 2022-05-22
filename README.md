@@ -16,3 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 You can Download the App from Files => build\app\outputs\flutter-apk\app-release.apk
+
+Screenshots of the App Given Here
+https://github.com/Tejas1020/tlrp_GTARP_Flutter_app/blob/master/flutter_01.png
+https://github.com/Tejas1020/tlrp_GTARP_Flutter_app/blob/master/flutter_02.png
+https://github.com/Tejas1020/tlrp_GTARP_Flutter_app/blob/master/flutter_03.png
